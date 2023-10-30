@@ -4,60 +4,59 @@ Lộ trình này được thiết kế để hỗ trợ những người mới b
 
 Trở thành một kỹ sư nhúng đòi hỏi sự hiểu biết rộng rãi về cả phần mềm và phần cứng. Nếu bạn đang bắt đầu cuộc hành trình này, bạn phải có động lực và đam mê cao để theo đuổi con đường này. Lĩnh vực hệ thống nhúng đòi hỏi sự hiểu biết vững chắc về chức năng phần cứng. Tuy nhiên, như câu nói nổi tiếng, "Phần cứng rất khó!". Vì vậy, sự kiên nhẫn và niềm đam mê là những phẩm chất cần thiết sẽ giúp bạn vượt qua những thử thách khác nhau gặp phải trong hành trình này.
 
-## What is an Embedded System?
+## Hệ thống nhúng là gì?
 
 [ISO/IEC/IEEE 24765 Standard:](https://www.iso.org/obp/ui/en/#iso:std:iso-iec-ieee:24765:ed-2:v1:en)
 
-> **computer system** that is **part of a larger system** and **performs some of the requirements of that system**. For example, a computer system
-used in an aircraft or rapid transit system.
+> **hệ thống máy tính** là **một phần của hệ thống lớn hơn** và **thực hiện một số yêu cầu của hệ thống đó**. Ví dụ, một hệ thống máy tính được sử dụng trong máy bay hoặc hệ thống vận chuyển nhanh.
 >
-> The hardware and software of an embedded system are usually **minimized** and **optimized** for **specific functions**. The embedded system includes at least one microcontroller, microprocessor or digital signal processor. The embedded system designed to optimize reliability, cost, size and power saving for applications.
+> Phần cứng và phần mềm của hệ thống nhúng thường **được giảm thiểu** và **tối ưu hóa** cho **các chức năng cụ thể**. Hệ thống nhúng bao gồm ít nhất một bộ vi điều khiển, bộ vi xử lý hoặc bộ xử lý tín hiệu số. Hệ thống nhúng được thiết kế để tối ưu hóa độ tin cậy, chi phí, kích thước và tiết kiệm năng lượng cho các ứng dụng.
 
 ["Making Embedded Systems" Book:](https://www.oreilly.com/library/view/making-embedded-systems/9781449308889/)
 
-> An embedded system is a **computerized system** that is **purpose built for its application**.
+> Hệ thống nhúng là **hệ thống được vi tính hóa** được **xây dựng nhằm mục đích cho ứng dụng của nó**.
 
 ["Computer Organization and Embedded Systems" Book:](https://a.co/d/2lt4Svf)
 
-> A **physical system** that employs **computer control** for a **specific purpose**, rather than for general-purpose computation, is referred to as an embedded system.
+> **Hệ thống vật lý** sử dụng **điều khiển máy tính** cho **mục đích cụ thể**, thay vì tính toán cho mục đích chung, được gọi là hệ thống nhúng.
 
 [Analog Devices Glossary:](https://www.analog.com/en/design-center/glossary/embedded-system.html)
 
-> An embedded system is a system in which the **computer** (generally a microcontroller or microprocessor) is included **as an integral part of the system**.
+> Hệ thống nhúng là một hệ thống trong đó **máy tính** (thường là bộ vi điều khiển hoặc bộ vi xử lý) được bao gồm **như một phần không thể thiếu của hệ thống**.
 >
-> Often, the computer is **relatively invisible to the user**, without obvious applications, files, or operating systems. Examples of products with invisible embedded systems are the controller that runs a microwave oven or the engine control system of a modern automobile.
+> Thông thường, máy tính **tương đối vô hình đối với người dùng**, không có ứng dụng, tệp hoặc hệ điều hành rõ ràng. Ví dụ về các sản phẩm có hệ thống nhúng vô hình là bộ điều khiển chạy lò vi sóng hoặc hệ thống điều khiển động cơ của ô tô hiện đại.
 
 [Embedded Systems Glossary:](https://barrgroup.com/embedded-systems/glossary-e)
 
-> A combination of **computer hardware and software**, and perhaps **additional mechanical or other parts**, designed to perform a **dedicated function**.
+> Sự kết hợp của **phần cứng và phần mềm máy tính** và có lẽ **các bộ phận cơ khí hoặc bộ phận khác** bổ sung, được thiết kế để thực hiện **chức năng chuyên dụng**.
 >
-> In some cases, embedded systems are **part of a larger system** or product, as in the case of an antilock braking system in a car.
+> ITrong một số trường hợp, hệ thống nhúng là **một phần của hệ thống lớn hơn** hoặc sản phẩm, như trong trường hợp hệ thống chống bó cứng phanh trên ô tô.
 
 ## Roadmap
 
-The roadmap is divided into three main sections: **SOFTWARE**, **HARDWARE**, and **SOFT SKILLS**.
+Lộ trình được chia thành ba phần chính: **PHẦN MỀM**, **PHẦN CỨNG** và **KỸ NĂNG PHẦN MỀM**.
 
-The hardware and software sections overlap in many embedded job roles. Different job titles, such as "Embedded Software Engineer / Developer," "Firmware Engineer / Developer," and "Embedded Linux Software Engineer / Developer," tend to focus more on software. On the other hand, job roles like "Embedded Hardware Engineer" and "Hardware Design Engineer" primarily focus on hardware. Additionally, there are positions like "Embedded Systems Engineer" that require a good understanding of both hardware and software. It's crucial to understand that each company in the embedded industry may have specific requirements for a job role, regardless of its title.
+Các phần phần cứng và phần mềm chồng chéo lên nhau trong nhiều vai trò công việc được nhúng. Các chức danh công việc khác nhau, chẳng hạn như "Kỹ sư / Nhà phát triển phần mềm nhúng", "Kỹ sư / nhà phát triển phần mềm cơ sở" và "Kỹ sư / nhà phát triển phần mềm Linux nhúng" có xu hướng tập trung nhiều hơn vào phần mềm. Mặt khác, các vai trò công việc như "Kỹ sư phần cứng nhúng" và "Kỹ sư thiết kế phần cứng" chủ yếu tập trung vào phần cứng. Ngoài ra, có những vị trí như "Kỹ sư hệ thống nhúng" yêu cầu hiểu biết tốt về cả phần cứng và phần mềm. Điều quan trọng là phải hiểu rằng mỗi công ty trong ngành nhúng có thể có những yêu cầu cụ thể cho một vai trò công việc, bất kể chức danh của nó là gì.
 
-With this in mind, the roadmap is designed to cover topics necessary for an "Embedded Systems Engineer" role. If you are aiming for an embedded software position, you should focus more on software skills in the roadmap. Conversely, if you are interested in an embedded hardware job, you should prioritize hardware skills.
+Với suy nghĩ này, lộ trình được thiết kế để bao gồm các chủ đề cần thiết cho vai trò "Kỹ sư hệ thống nhúng". Nếu bạn đang hướng tới vị trí phần mềm nhúng, bạn nên tập trung nhiều hơn vào các kỹ năng phần mềm trong lộ trình. Ngược lại, nếu bạn quan tâm đến công việc phần cứng nhúng thì nên ưu tiên các kỹ năng về phần cứng.
 
-In the embedded industry, all job roles require some soft skills, which cannot be acquired solely through reading or watching videos. Soft skills are developed through communication with others and facing various work challenges. Improving soft skills is not a one-size-fits-all approach. It varies depending on your individual characteristics and involves being aware of your own strengths and weaknesses. Enhancing these skills takes time and effort.
+Trong ngành công nghiệp nhúng, tất cả các vai trò công việc đều yêu cầu một số kỹ năng mềm không thể có được chỉ bằng cách đọc hoặc xem video. Kỹ năng mềm được phát triển thông qua giao tiếp với người khác và đối mặt với nhiều thách thức công việc khác nhau. Cải thiện kỹ năng mềm không phải là cách tiếp cận chung cho tất cả. Nó thay đổi tùy thuộc vào đặc điểm cá nhân của bạn và liên quan đến việc nhận thức được điểm mạnh và điểm yếu của chính bạn. Việc nâng cao những kỹ năng này cần có thời gian và công sức.
 
-**Remember that the emphasis on software or hardware skills may vary depending on the specific requirements of the company or job position.**
+**Hãy nhớ rằng việc nhấn mạnh vào kỹ năng phần mềm hoặc phần cứng có thể khác nhau tùy thuộc vào yêu cầu cụ thể của công ty hoặc vị trí công việc.**
 
 ![Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases/latest/download/Embedded-Engineering-Roadmap.png)
 
-## Learning Resources
+## Tài nguyên học tập
 
-### ⭐️ Featured Material
+### ⭐️ Tài liệu nổi bật
 
-#### 🔎 Searching is Your Super Power!
+#### 🔎 Tìm kiếm là siêu năng lực của bạn!
 
 - [Google](https://www.google.com)
 - [Bing](https://www.bing.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 
-#### 🎥 Courses and YouTube Contents
+#### 🎥 Các khóa học và nội dung YouTube
 
 - [Coursera - Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems)
 - [Coursera - Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware)
@@ -89,24 +88,24 @@ In the embedded industry, all job roles require some soft skills, which cannot b
 
 ##### PlatformIO
 
-PlatformIO is a cross-platform, cross-architecture, multiple framework, professional tool for embedded systems engineers and for software developers who write applications for embedded products.
+PlatformIO là một công cụ chuyên nghiệp, đa nền tảng, đa kiến trúc, đa nền tảng dành cho các kỹ sư hệ thống nhúng và dành cho các nhà phát triển phần mềm viết ứng dụng cho các sản phẩm nhúng.
 
 - [PlatformIO - A professional collaborative platform for embedded development](https://platformio.org/)
 
-PlatformIO is not yet extensively adopted in industrial and large-scale projects, however, it is an excellent choice for individuals working on smaller projects. This is because it greatly reduces the need to install frameworks and setup build and debug tools, allowing you to concentrate on programming.
+PlatformIO chưa được áp dụng rộng rãi trong các dự án công nghiệp và quy mô lớn, tuy nhiên, đây là sự lựa chọn tuyệt vời cho các cá nhân làm việc trong các dự án nhỏ hơn. Điều này là do nó làm giảm đáng kể nhu cầu cài đặt framework cũng như thiết lập các công cụ xây dựng và gỡ lỗi, cho phép bạn tập trung vào lập trình.
 
 #### 🕹️ Arduino
 
-If you do not have any background in programming the embedded systems, Arduino boards and libraries are the best choice for you to start and learn the basics. Just keep in mind that most of the Arduino libraries are developed for learning purposes and are not optimized to be used in industry.
+Nếu bạn chưa có kiến thức nền tảng về lập trình hệ thống nhúng, bo mạch và thư viện Arduino là lựa chọn tốt nhất để bạn bắt đầu và tìm hiểu những điều cơ bản. Chỉ cần lưu ý rằng hầu hết các thư viện Arduino được phát triển cho mục đích học tập và không được tối ưu hóa để sử dụng trong công nghiệp.
 
-Additionally, the [Arduino Core](https://github.com/arduino/ArduinoCore-API) takes care of most of the low-level operations and manipulation of registers that you, as an embedded engineer, should be able to handle yourself. If you want to become a professional embedded developer, you must be able to effectively use industry-standard APIs and frameworks provided and approved by microcontroller vendors. For example, CMSIS for ARM Cortex, STM32Cube for STM32, ESP-IDF for Espressif microcontrollers, etc.
+Ngoài ra, [Arduino Core](https://github.com/arduino/ArduinoCore-API) đảm nhiệm hầu hết các hoạt động cấp thấp và thao tác với các thanh ghi mà bạn, với tư cách là kỹ sư nhúng, có thể tự mình xử lý . Nếu muốn trở thành nhà phát triển nhúng chuyên nghiệp, bạn phải có khả năng sử dụng hiệu quả các API và khung tiêu chuẩn ngành do các nhà cung cấp bộ vi điều khiển cung cấp và phê duyệt. Ví dụ: CMSIS cho ARM Cortex, STM32Cube cho STM32, ESP-IDF cho bộ vi điều khiển Espressif, v.v.
 
 - [Getting Started with Arduino](https://docs.arduino.cc/learn/starting-guide/getting-started-arduino)
 - [New Arduino Tutorials (YouTube Playlist)](https://youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 - [Arduino in a commercial product?](https://www.youtube.com/watch?v=c5LzsqeSCAc)
 - [Arduino Project to Product (YouTube Playlist)](https://www.youtube.com/playlist?list=PLEBQazB0HUyQd6Fsf5NQ75M9llbi1_j_8)
 
-#### 👨‍🏫 Educational Websites
+#### 👨‍🏫 Trang web giáo dục
 
 - [DeepBlueMbedded](https://deepbluembedded.com/)
 - [💎 Interrupt Blog by Memfault](https://interrupt.memfault.com/blog/)
@@ -120,9 +119,9 @@ Additionally, the [Arduino Core](https://github.com/arduino/ArduinoCore-API) tak
 - [Random Nerd Tutorials | Learn ESP32, ESP8266, Arduino, and Raspberry Pi](https://randomnerdtutorials.com/)
 - [ControllersTech](https://controllerstech.com/)
 
-#### ⚒️ Projects
+#### ⚒️ Dự án
 
-Engaging in hands-on projects is the most effective approach to learning. Rather than solely relying on theoretical knowledge from books or articles, undertaking projects allows for practical learning experiences. Even a seemingly basic project has the potential to teach you more than aimless reading. You can consult books and articles when faced with difficulties in understanding the problems in a real-world project.
+Tham gia vào các dự án thực hành là cách tiếp cận học tập hiệu quả nhất. Thay vì chỉ dựa vào kiến thức lý thuyết từ sách hoặc bài báo, việc thực hiện các dự án mang lại trải nghiệm học tập thực tế. Ngay cả một dự án tưởng chừng như cơ bản cũng có khả năng dạy bạn nhiều điều hơn là việc đọc không có mục đích. Bạn có thể tham khảo sách và bài báo khi gặp khó khăn trong việc hiểu các vấn đề trong một dự án trong thế giới thực.
 
 - [51 STM32 Projects & Tutorials for Beginners and Up - Hackster.io](https://www.hackster.io/stm32/projects)
 - [STM32 (STM32F103C8) Projects & Tutorials](https://circuitdigest.com/stm32-projects-and-tutorials)
@@ -130,27 +129,27 @@ Engaging in hands-on projects is the most effective approach to learning. Rather
 - [STM32 Firmware - Phil’s Lab (YouTube Playlist)](https://youtube.com/playlist?list=PLXSyc11qLa1a4Tqbz228dPZfMrs-KRpzA)
 - [Raspberry Pi Based Embedded Project Ideas](https://www.rs-online.com/designspark/raspberry-pi-based-embedded-project-ideas)
 
-#### 🗺️ Other Helpful Roadmaps
+#### 🗺️ Lộ trình hữu ích khác
 
 - [Embedded Artistry Beginners Roadmap](https://embeddedartistry.com/beginners/)
 - [Embedded Systems Skill Tree](https://github.com/sjpiper145/MakerSkillTree/tree/main/Embedded%20Systems%20Skill%20Tree)
 - [PCB Design Skill Tree](https://github.com/sjpiper145/MakerSkillTree/tree/main/PCB%20Design%20Skill%20Tree)
 
-#### ❓ Ask Questions
+#### ❓ Câu hỏi
 
 - [Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/)
 
 _________________
 
-**⚠️ Note:** It is not necessary to read or watch all of the following materials, but it is important to study enough to have at least a basic understanding of the required topics. Of course, the more you study and practice, the more your knowledge will grow. This continuous learning process will gradually improve your skills and make you a better engineer.
+**⚠️ Lưu ý:** Không cần thiết phải đọc hoặc xem hết các tài liệu sau, nhưng điều quan trọng là phải học đủ để có hiểu biết cơ bản về các chủ đề được yêu cầu. Tất nhiên, càng học tập và thực hành nhiều thì kiến thức của bạn sẽ càng phong phú hơn. Quá trình học tập liên tục này sẽ dần dần cải thiện kỹ năng của bạn và giúp bạn trở thành một kỹ sư giỏi hơn.
 
-Some of the resources mentioned here will just be used as references. Refer to them only when you need them.
+Một số tài nguyên được đề cập ở đây sẽ chỉ được sử dụng làm tài liệu tham khảo. Chỉ tham khảo chúng khi bạn cần chúng.
 
-**Symbols Guide:**
+**Hướng dẫn ký hiệu:**
 
-👶 indicates easy-to-understand and beginner-friendly resources. Refer to them if you do not have prior knowledge in a topic.
+👶 chỉ ra các tài nguyên dễ hiểu và thân thiện với người mới bắt đầu. Hãy tham khảo chúng nếu bạn không có kiến thức trước về một chủ đề nào đó.
 
-💎 indicates well-known references that have truly invaluable and comprehensive content. Refer to them if you want to deepen your understanding of a topic.
+💎 chỉ ra những tài liệu tham khảo nổi tiếng có nội dung thực sự có giá trị và toàn diện. Hãy tham khảo chúng nếu bạn muốn hiểu sâu hơn về một chủ đề.
 _________________
 
 ### Soft Skills
