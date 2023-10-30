@@ -547,7 +547,7 @@ _________________
 
 _________________
 
-### 12. Simulation / Emulation Tools
+### 12. ~~Simulation / Emulation Tools~~
 
 - [👶 Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com/)
 
