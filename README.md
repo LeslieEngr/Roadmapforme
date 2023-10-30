@@ -152,14 +152,14 @@ Một số tài nguyên được đề cập ở đây sẽ chỉ được sử 
 💎 Đầy đủ
 _________________
 
-### 1. 💀Soft Skills
+### 1. 👣Soft Skills
 
 - [Soft Skills For Embedded Systems Software Developers](https://www.embeddedrelated.com/showarticle/1470.php)
 - [10 Skills Every Embedded Engineer Should Have](https://medium.com/@lanceharvieruntime/10-skills-every-embedded-engineer-should-have-dcb867095b91)
 
 _________________
 
-### 2. Electronics
+### 2. 👣Electronics
 
 #### Basic Math & Calculus
 
@@ -209,7 +209,7 @@ _________________
 
 _________________
 
-### 3. Using Test Equipment
+### 3. 👣Using Test Equipment
 
 #### Multimeter
 
@@ -229,7 +229,7 @@ _________________
 
 _________________
 
-### 4. Prototyping Skills
+### 4. 👣Prototyping Skills
 
 #### Breadboarding
 
@@ -269,7 +269,7 @@ _________________
 
 _________________
 
-### 5. FPGA Design
+### 5. 👁️FPGA Design
 
 - [What are FPGAs?](https://hackaday.io/project/27550-the-hobbyists-guide-to-fpgas/log/68114-what-are-fpgas)
 - [FPGA vs. Microcontroller: How to choose the right one for your project](https://www.youtube.com/watch?v=jblpHUCPQYs)
@@ -283,7 +283,7 @@ _________________
 
 _________________
 
-### 6. Software Development Life Cycle (SDLC) Models
+### 6. ❌Software Development Life Cycle (SDLC) Models
 
 - [What is the software development life cycle?](https://www.coderus.com/the-software-development-lifecycle/)
 - [Embedded Product Development Life Cycle: Four Main Steps](https://www.sam-solutions.com/blog/embedded-product-development-life-cycle/)
@@ -302,7 +302,7 @@ _________________
 
 _________________
 
-### 7. Programming Fundamentals
+### 7. 👣Programming Fundamentals
 
 #### Algorithms & Data Structures
 
@@ -334,7 +334,7 @@ _________________
 
 _________________
 
-### 8. Programming Languages 
+### 8. ❌Programming Languages 
 
 #### C
 
@@ -397,7 +397,7 @@ _________________
 
 _________________
 
-### 9. Build Tools
+### 9. 👣Build Tools
 
 #### GCC & Make
 
@@ -428,7 +428,7 @@ _________________
 - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 _________________
 
-### 10. Version Control
+### 10. 👣Version Control
 
 #### Git
 
@@ -441,7 +441,7 @@ _________________
 
 _________________
 
-### 11. Microcontrollers
+### 11. ❌Microcontrollers
 
 - [What Is a Microcontroller? The Defining Characteristics and Architecture of a Common Component](https://www.allaboutcircuits.com/technical-articles/what-is-a-microcontroller-introduction-component-characteristics-component/)
 - [How to Choose the Right Microcontroller for Your Application ](https://www.allaboutcircuits.com/technical-articles/how-to-choose-the-right-microcontroller-for-your-application/)
@@ -547,7 +547,7 @@ _________________
 
 _________________
 
-### 12. 💀Simulation / Emulation Tools
+### 12. 👣Simulation / Emulation Tools
 
 - [👶 Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com/)
 
@@ -569,7 +569,7 @@ _________________
 
 _________________
 
-### 13. Interfaces, Protocols & Communication Technologies
+### 13. ❌Interfaces, Protocols & Communication Technologies
 
 #### ‌Basic Protocols
 
@@ -753,7 +753,7 @@ _________________
 
 _________________
 
-### 14. Memories
+### 14. ❌Memories
 
 - [Memory Options for Embedded Systems: How to Select the Right Memory Configuration](https://www.qt.io/embedded-development-talk/memory-options-for-embedded-systems-how-to-select-the-right-memory-configuration)
 
@@ -784,7 +784,7 @@ _________________
 
 _________________
 
-### 15. Sensors & Actuators
+### 15. 👣Sensors & Actuators
 
 #### Sensors
 
@@ -809,7 +809,7 @@ _________________
 
 _________________
 
-### 16. Operating Systems
+### 16. ❌Operating Systems
 
 #### Operating System Fundamentals
 
@@ -966,7 +966,7 @@ _________________
 
 _________________
 
-### 17. Digital Signal Processing
+### 17. 👁️Digital Signal Processing
 
 #### DSP Fundamentals & Filter Design
 
@@ -1006,7 +1006,7 @@ _________________
 
 _________________
 
-### 18. Debugging
+### 18. 👁️Debugging
 
 - [Using Asserts in Embedded Systems](https://interrupt.memfault.com/blog/asserts-in-embedded-systems)
 
@@ -1033,7 +1033,7 @@ _________________
 
 _________________
 
-### 19. Testing
+### 19. 👣Testing
 
 - [Embedded Testing](https://artoftesting.com/embedded-testing)
 - [What is Embedded Testing in Software Testing?](https://www.guru99.com/embedded-software-testing.html)
@@ -1078,7 +1078,7 @@ _________________
 
 _________________
 
-### 20. Embedded AI
+### 20. 👁️Embedded AI
 
 - [Udemy – Getting Started with Embedded AI | Edge AI](https://www.udemy.com/course/getting-started-with-embedded-ai-hands-on-experience/)
 - [Intro to Edge AI: Machine Learning + IoT – Maker.io Tutorial | Digi-Key Electronics](https://www.youtube.com/watch?v=Ejld8XZmvwE)
@@ -1109,7 +1109,7 @@ _________________
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers - Pete Warden, Daniel Situnayake](https://tinymlbook.com/)
 _________________
 
-### 21. Embedded Security
+### 21. 👁️Embedded Security
 
 - [Embedded Systems Security and TrustZone](https://embeddedsecurity.io/)
 
