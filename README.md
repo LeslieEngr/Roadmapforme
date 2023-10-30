@@ -1,8 +1,8 @@
 # Embedded Systems Engineering Roadmap
 
-This roadmap is designed to assist beginners aspiring to build a career as an Embedded Engineer / Developer. To provide comprehensive guidance, the topics have been carefully selected based on current job requirements and organized according to my personal experience.
+Lộ trình này được thiết kế để hỗ trợ những người mới bắt đầu mong muốn xây dựng sự nghiệp với tư cách là Kỹ sư / Nhà phát triển nhúng. Để cung cấp hướng dẫn toàn diện, các chủ đề đã được lựa chọn cẩn thận dựa trên yêu cầu công việc hiện tại và được sắp xếp theo kinh nghiệm cá nhân của tôi.
 
-Becoming an embedded engineer requires a broad understanding of both software and hardware. If you are starting on this journey, you must be highly motivated and passionate to pursue this path. The field of embedded systems demands a solid understanding of hardware functionality. But, as the well-known saying goes, "Hardware is hard!". So, patience and passion are the essential qualities that will help you overcome the various challenges encountered along this journey.
+Trở thành một kỹ sư nhúng đòi hỏi sự hiểu biết rộng rãi về cả phần mềm và phần cứng. Nếu bạn đang bắt đầu cuộc hành trình này, bạn phải có động lực và đam mê cao để theo đuổi con đường này. Lĩnh vực hệ thống nhúng đòi hỏi sự hiểu biết vững chắc về chức năng phần cứng. Tuy nhiên, như câu nói nổi tiếng, "Phần cứng rất khó!". Vì vậy, sự kiên nhẫn và niềm đam mê là những phẩm chất cần thiết sẽ giúp bạn vượt qua những thử thách khác nhau gặp phải trong hành trình này.
 
 ## What is an Embedded System?
 
