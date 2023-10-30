@@ -152,7 +152,7 @@ Một số tài nguyên được đề cập ở đây sẽ chỉ được sử 
 💎 Đầy đủ
 _________________
 
-### 1. Soft Skills
+### 1. 💀Soft Skills
 
 - [Soft Skills For Embedded Systems Software Developers](https://www.embeddedrelated.com/showarticle/1470.php)
 - [10 Skills Every Embedded Engineer Should Have](https://medium.com/@lanceharvieruntime/10-skills-every-embedded-engineer-should-have-dcb867095b91)
@@ -547,7 +547,7 @@ _________________
 
 _________________
 
-### 12. ~~Simulation / Emulation Tools~~
+### 12. 💀Simulation / Emulation Tools
 
 - [👶 Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com/)
 
