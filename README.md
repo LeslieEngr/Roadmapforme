@@ -92,17 +92,6 @@ PlatformIO là một công cụ chuyên nghiệp, đa nền tảng, đa kiến t
 
 PlatformIO chưa được áp dụng rộng rãi trong các dự án công nghiệp và quy mô lớn, tuy nhiên, đây là sự lựa chọn tuyệt vời cho các cá nhân làm việc trong các dự án nhỏ hơn. Điều này là do nó làm giảm đáng kể nhu cầu cài đặt framework cũng như thiết lập các công cụ xây dựng và gỡ lỗi, cho phép bạn tập trung vào lập trình.
 
-#### 🕹️ Arduino
-
-Nếu bạn chưa có kiến thức nền tảng về lập trình hệ thống nhúng, bo mạch và thư viện Arduino là lựa chọn tốt nhất để bạn bắt đầu và tìm hiểu những điều cơ bản. Chỉ cần lưu ý rằng hầu hết các thư viện Arduino được phát triển cho mục đích học tập và không được tối ưu hóa để sử dụng trong công nghiệp.
-
-Ngoài ra, [Arduino Core](https://github.com/arduino/ArduinoCore-API) đảm nhiệm hầu hết các hoạt động cấp thấp và thao tác với các thanh ghi mà bạn, với tư cách là kỹ sư nhúng, có thể tự mình xử lý . Nếu muốn trở thành nhà phát triển nhúng chuyên nghiệp, bạn phải có khả năng sử dụng hiệu quả các API và khung tiêu chuẩn ngành do các nhà cung cấp bộ vi điều khiển cung cấp và phê duyệt. Ví dụ: CMSIS cho ARM Cortex, STM32Cube cho STM32, ESP-IDF cho bộ vi điều khiển Espressif, v.v.
-
-- [Getting Started with Arduino](https://docs.arduino.cc/learn/starting-guide/getting-started-arduino)
-- [New Arduino Tutorials (YouTube Playlist)](https://youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
-- [Arduino in a commercial product?](https://www.youtube.com/watch?v=c5LzsqeSCAc)
-- [Arduino Project to Product (YouTube Playlist)](https://www.youtube.com/playlist?list=PLEBQazB0HUyQd6Fsf5NQ75M9llbi1_j_8)
-
 #### 👨‍🏫 Trang web giáo dục
 
 - [DeepBlueMbedded](https://deepbluembedded.com/)
