@@ -58,15 +58,13 @@ Trong ngành công nghiệp nhúng, tất cả các vai trò công việc đều
 
 #### 🎥 Các khóa học và nội dung YouTube
 
-- [Coursera - Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems)
-- [Coursera - Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware)
 - [Fastbit Embedded Brain Academy](https://fastbitlab.com/)
-- [Quantum Leaps, LLC (YouTube Channel)](https://www.youtube.com/@StateMachineCOM)
-- [DigiKey (YouTube Channel)](https://www.youtube.com/@digikey)
-- [element14 presents (YouTube Channel)](https://www.youtube.com/@element14presents)
-- [Ben Eater (YouTube Channel)](https://www.youtube.com/@BenEater)
-- [Phil’s Lab (YouTube Channel)](https://www.youtube.com/@PhilsLab)
-- [Embedded Systems - Jacob Sorber (YouTube Playlist)](https://www.youtube.com/playlist?list=PL9IEJIKnBJjEcPAz6fss-Hx0TLytCOMVC)
+- Có 1 video đầu tiên về STM NUC: [Quantum Leaps, LLC (YouTube Channel)](https://www.youtube.com/@StateMachineCOM)
+- Kênh của anh bạn đeo nơ, anh, nên xem thường xuyên : [DigiKey (YouTube Channel)](https://www.youtube.com/@digikey)
+- Có một series về phần cứng, các ic : [element14 presents (YouTube Channel)](https://www.youtube.com/@element14presents)
+- Nói về một số giao tiếp : [Ben Eater (YouTube Channel)](https://www.youtube.com/@BenEater)
+- Kiến thức chủ yếu hề hardware :   [Phil’s Lab (YouTube Channel)](https://www.youtube.com/@PhilsLab)
+- Kiến thức chủ yếu về C, Makefile: [Embedded Systems - Jacob Sorber (YouTube Playlist)](https://www.youtube.com/playlist?list=PL9IEJIKnBJjEcPAz6fss-Hx0TLytCOMVC)
 - [edX - Embedded Systems - Shape The World: Microcontroller Input/Output](https://learning.edx.org/course/course-v1:UTAustinX+UT.6.10x+3T2022/home)
 - [edX - Embedded Systems - Shape The World: Multi-Threaded Interfacing](https://www.edx.org/learn/computer-programming/the-university-of-texas-at-austin-embedded-systems-shape-the-world-multi-threaded-in)
 
